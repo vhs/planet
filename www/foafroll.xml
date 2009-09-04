@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:rss="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<foaf:Group>
+	<foaf:name>VHS</foaf:name>
+	<foaf:homepage>default</foaf:homepage>
+	<rdfs:seeAlso rdf:resource="default/foafroll.xml" />
+
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Joe Bowser</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="">
+					<dc:title></dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://www.infil00p.org/blog/" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Joe Bowser @ Nitobi</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="">
+					<dc:title></dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://blogs.nitobi.com/joe/" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Keyboard Cowboy</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://keyboardcowboy.ca">
+					<dc:title>Keyboard Cowboy</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://keyboardcowboy.ca/feed/" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Mike Cantelon</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://mikecantelon.com">
+					<dc:title>Mike Cantelon</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://mikecantelon.com/rss.xml" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>lukec</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://www.socialtext.net/lukec/index.cgi?action=weblog_display;tag=blog%20post">
+					<dc:title>Luke's Wiki: blog post</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://www.socialtext.net/feed/workspace/lukec?category=blog%20post" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>texts for nothing</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://textsfornothing.com/blog">
+					<dc:title>texts for nothing</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://textsfornothing.com/blog/feed/" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+
+</foaf:Group>
+</rdf:RDF>

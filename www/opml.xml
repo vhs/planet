@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<opml version="1.1">
+	<head>
+		<title>VHS</title>
+		<dateModified>Fri, 04 Sep 2009 03:49:07 +0000</dateModified>
+		<ownerName>default</ownerName>
+		<ownerEmail>default@email</ownerEmail>
+	</head>
+	
+	<body>
+		<outline type="rss" text="Joe Bowser" xmlUrl="http://www.infil00p.org/blog/" title="Joe Bowser" />
+		<outline type="rss" text="Joe Bowser @ Nitobi" xmlUrl="http://blogs.nitobi.com/joe/" title="Joe Bowser @ Nitobi" />
+		<outline type="rss" text="Keyboard Cowboy" xmlUrl="http://keyboardcowboy.ca/feed/" title="Keyboard Cowboy" />
+		<outline type="rss" text="Mike Cantelon" xmlUrl="http://mikecantelon.com/rss.xml" title="Mike Cantelon" />
+		<outline type="rss" text="lukec" xmlUrl="http://www.socialtext.net/feed/workspace/lukec?category=blog%20post" title="Luke's Wiki: blog post" />
+		<outline type="rss" text="texts for nothing" xmlUrl="http://textsfornothing.com/blog/feed/" title="texts for nothing" />
+	</body>
+</opml>
